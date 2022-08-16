@@ -27,7 +27,7 @@ xui.Class('App', 'xui.Module',{
                 .setHost(host,"xui_ui_buttonviews1")
                 .setItems([{
                     "id" : "a",
-                    "caption" : "page1",
+                    "caption" : "page11",
                     "image" : "",
                     "imageClass" : "xui-uicmd-add"
                 },
